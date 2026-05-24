@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javadsohrabi
-- 👀 I’m interested in Physics
-- 🌱 I’m currently learning Quantum Computing
+- 👀 I’m interested in Quantum Computing 
+- 🌱 I’m currently a PhD student in Physics. 
 - 📫 How to reach me: Gmail: javat.sohrabi@gmail.com , LinkedIn: https://www.linkedin.com/in/javad-sohrabi-7762781ba
 
 <!---
